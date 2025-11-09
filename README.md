@@ -5,3 +5,4 @@ To repozytorium zawiera zbiór zadań wykonanych w ramach przedmiotu **TAU**.
 ## Zadania
 
 - [Zjazd-1](Zjazd-1/README.md)
+- [Zjazd-2](Zjazd-2/README.md)
